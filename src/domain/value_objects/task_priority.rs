@@ -1,4 +1,4 @@
-use crate::domain::errors::{DomainError, DomainResult};
+use crate::domain::errors::DomainError;
 use serde::{Deserialize, Serialize};
 use std::str::FromStr;
 
