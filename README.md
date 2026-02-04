@@ -735,9 +735,9 @@ SOFTWARE.
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-linkedin)
-- Email: seu-email@example.com
+- GitHub: [@rodrigues-daniel](https://github.com/rodrigues-daniel/)
+- LinkedIn: [Daniel Rodrigues](https://www.linkedin.com/in/daniel-c-rodrigues/)
+- Email: daniel.rodrighes@gmail.com
 
 ---
 
